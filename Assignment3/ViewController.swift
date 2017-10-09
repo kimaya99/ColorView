@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Assignment3
+//  
 //
 //  Created by Kimaya Desai on 9/29/17.
 //  Copyright © 2017 SDSU. All rights reserved.
@@ -139,14 +139,6 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-    }
-    
-    override func viewDidAppear(_ animated: Bool)
-    {
-       
-        
-        
-
     }
     
 }
